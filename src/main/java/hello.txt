@@ -1,0 +1,2 @@
+"Hello Git! "
+"This is me Mariana Moisei, future QA Automation Engineer "
